@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="assets/NerdByteLabs.png" alt="NerdByte Labs Text Logo" height="150">
+  <img src="assets/NerdByteLabs.png" alt="NerdByte Labs Text Logo" height="280">
 
 </p>
 

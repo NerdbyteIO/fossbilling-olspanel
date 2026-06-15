@@ -1,8 +1,8 @@
-<!-- NerdByte Branding -->
+<!-- NerdByte Labs Branding -->
 
 <p align="center">
 
-  <img src="assets/NerdByteLabs.png" alt="NerdByte Labs Text Logo" height="280">
+  <img src="assets/NerdByteLabs.png" alt="NerdByte Labs Text Logo" width="750">
 
 </p>
 
